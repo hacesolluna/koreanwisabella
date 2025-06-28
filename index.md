@@ -1,6 +1,3 @@
-
-# Korean with Isabella!
-
 ## 06/28 - Hangul & Installing Keyboard
 
 * Hangul Characters
